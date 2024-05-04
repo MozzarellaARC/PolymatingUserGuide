@@ -1,5 +1,5 @@
-# PolymatingUserGuide
-## A page for user instructions and manuals
+# ***PolymatingUserGuide***
+### _A page for user instructions and manuals_
 
 Hello, MozzarellaARC here wants to give you a quick user guide for you to use Polymating.
 
@@ -41,7 +41,21 @@ Now this is my personal material settings, you can use your own, or skip this pa
 # _The Wrapping_
 Ok Now the next part is kinda scary but, don't be afraid. Because if you have already experience retopologizing with Shrinkwrap Modifier before, then it would look similar, the below video is how the wrapping started when you are in the state of Polymating and this is where the magic happens.
 
+Please keep an important note that the object that you selected will be your target mesh, Polymating will automatically stopped if the target is deselected / deleted / the reference object is remove from the picker manually when Polymating is running
+
 https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/e1251adb-daeb-4499-8da9-abc4054f4f40
 
+# The _Retopology_
+Now that you have everything set, you can go to sculpt mode or edit mode whichever you prefer and then do the Retopology like this, also please pardon my retopology skill as this is just a quick show for you to understand. My actual Retopology skill is on another level hence the making of this addon xD :
 
+https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/adb748e6-71ff-4e3e-9d3d-32122b9272e4
 
+Now this is not the only way to use Polymating, one of the other way to use it is by using it in edit mode with the "Proportional Editing" turned on. Like this :
+
+https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/873f3902-26b1-478a-b503-5643bc663667
+
+_Have fun with the addon :D_
+
+- - -
+This addon is being used extensively for my other project The Rhine, which is a free model
+https://sketchfab.com/mozzarellaARC/models
