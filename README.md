@@ -46,7 +46,7 @@ Please keep an important note that the object that you selected will be your tar
 https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/e1251adb-daeb-4499-8da9-abc4054f4f40
 
 # The _Retopology_
-Now that you have everything set, you can go to sculpt mode or edit mode whichever you prefer and then do the Retopology like this, also please pardon my retopology skill as this is just a quick show for you to understand. My actual Retopology skill is on another level hence the making of this addon xD :
+Now that you have everything set, you can go to sculpt mode or edit mode whichever you prefer and then do the Retopology like this, also please pardon my retopology skill as this is just a quick show for you to understand. My actual Retopology skill is on another level hence the making of this addon xD, for this example I extensively use the sculpt grab and smooth tool :
 
 https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/adb748e6-71ff-4e3e-9d3d-32122b9272e4
 
@@ -54,6 +54,7 @@ Now this is not the only way to use Polymating, one of the other way to use it i
 
 https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/873f3902-26b1-478a-b503-5643bc663667
 
+But remember it was suppose to work with most of the Blender proprietary / primitive tool, so you could experiment with the other tool not mentioned on the guide. This guide just show which tool is mostly used by me.
 _Have fun with the addon :D_
 
 - - -
