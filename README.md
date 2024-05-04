@@ -28,6 +28,7 @@ Now this is my personal material settings, you can use your own, or skip this pa
 
 
 Ok Now the next part is kinda scary but, don't be afraid. Because if you have already experience retopologizing with Shrinkwrap Modifier before, then it would look similar, the below video is how the wraping started when you are in the state of Polymating and this is where the magic happens.
+
 https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/e1251adb-daeb-4499-8da9-abc4054f4f40
 
 
