@@ -5,18 +5,25 @@ Hello, MozzarellaARC here wants to give you a quick user guide for you to use Po
 
 Before we started, I want to give you the main point of using polymating:
 1. Reference object
-2. Retopology Target
-3. Operations
+2. Retopology object
+3. Operations / Operators
 
 These 3 point will be explained later, for now let's take a look at the User Interface ( UI )
 
 # _The UI_
 
-![userInterfaceGuide1](https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/9da6d320-b1a3-451f-83b7-72be0e476604)
+![ui1](https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/be62331a-9e02-42c7-b2ce-a9f08d2e6040)
 
-1 > Is the only Polymating button, and this button is a toggle button which you can use as a "Start" and "Stop" function for Polymating whole workflow
+![ui2](https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/9a5ec593-ab9e-4110-9f21-93ca501aa6d0)
 
-2 > Is a picker for the reference object you want to use for your target retopology mesh
+In Polymating 0.51.x the addon now has 2 main functionality which is the main operator that does the wrapping for retopology and overlay, The main button has different behavior from the previous versions of Polymating :
+1. Polymating Operator will not stop automatically on different state of object visibility
+2. Polymating Operator can now automatically gives material overlay to the selected mesh upon pressing "Start Polymating"
+
+Please keep in mind that the overlay mechanics will overwrites existing materials, also the overlay mechanics has its own behavior :
+1. Applying overlay will automatically turn on the state of "In Front", "Wireframe", "Backface Culling"
+2. When using automatic "Apply on start", the overlay will not be removed automatically upon stopping Polymating
+3. Please keep in mind.
 
 Prety simple right, now that you know the ui. Let's take a closer look on a simple example how you can start retopology with Polymating!!
 
@@ -30,11 +37,11 @@ First off let's use Suzzane as a reference mesh and a random cube with subdivisi
 
 - - -
 
-# _Material (not necessary)_
+# _Overlay Material (not necessary)_
 
-Now this is my personal material settings, you can use your own, or skip this part with wireframe overlay turn on.
+In 0.51.0 Polymating have overlay functionality to help the user fasten the material creation, but please keep in mind that the applying overlay will overwrites existing materials !!!, to use this features go to Edit > Preferences > Addon > Polymating . And then turn on the Experimental Feature toggle button to show the other settings.
 
-![Material](https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/1c6eb671-e59c-44f2-9b5f-89dbed43a54f)
+![UI_3](https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/c2952aad-2def-4871-a4a2-cb4d786af984)
 
 - - -
 
