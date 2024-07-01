@@ -20,7 +20,7 @@ In Polymating 0.51.x the addon now has 2 main functionality which is the main op
 1. Polymating Operator will not stop automatically on different state of object visibility
 2. Polymating Operator can now automatically gives material overlay to the selected mesh upon pressing "Start Polymating"
 
-Please keep in mind that the overlay mechanics will overwrites existing materials, also the overlay mechanics has its own behavior :
+Please keep in mind that applying overlay will overwrites existing materials, also the overlay mechanics has its own behavior :
 1. Applying overlay will automatically turn on the state of "In Front", "Wireframe", "Backface Culling"
 2. When using automatic "Apply on start", the overlay will not be removed automatically upon stopping Polymating
 3. Please keep in mind.
@@ -39,7 +39,7 @@ First off let's use Suzzane as a reference mesh and a random cube with subdivisi
 
 # _Overlay Material (not necessary)_
 
-In 0.51.0 Polymating have overlay functionality to help the user fasten the material creation, but please keep in mind that the applying overlay will overwrites existing materials !!!, to use this features go to Edit > Preferences > Addon > Polymating . And then turn on the Experimental Feature toggle button to show the other settings.
+In 0.51.0 Polymating have overlay functionality to help the user fasten the material creation, but please keep in mind that applying overlay will overwrites existing materials !!!, to use this features go to Edit > Preferences > Addon > Polymating . And then turn on the Experimental Feature toggle button to show the other settings.
 
 ![UI_3](https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/c2952aad-2def-4871-a4a2-cb4d786af984)
 
