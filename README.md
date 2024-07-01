@@ -1,4 +1,4 @@
-# ***PolymatingUserGuide***
+# ***PolymatingUserGuide for 0.5x***
 ### _A page for user instructions and manuals_
 
 Hello, MozzarellaARC here wants to give you a quick user guide for you to use Polymating.
