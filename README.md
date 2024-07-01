@@ -2,15 +2,31 @@
 ### _A page for user instructions and manuals_
 
 Hello, MozzarellaARC here wants to give you a quick user guide for you to use Polymating.
+For this version of Polymating, The retopology reference we're gonna use is [Plushie Shark made by QuazrSCI](https://sketchfab.com/3d-models/plushie-shark-875414d5e45c42f9a5323ba8a8beed19) please say hello to Sharky!
 
-Before we started, I want to give you the main point of using polymating:
-1. Reference object
-2. Retopology object
-3. Operations / Operators
+![sharky_150](https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/fedbbfec-c271-455d-8359-29782af96406)
 
-These 3 point will be explained later, for now let's take a look at the User Interface ( UI )
+Let's get started!!!
 
-# _The UI_
+# _Basics and Workflows_
+
+The typical workflow when you use Polymating is set up your reference mesh, creates your retopology object with basic shapes, apply overlay material to help you see better, and then shapes your retopology object, the image bellow will help you understands the basic principle of using Polymating
+
+![sharky_on_top](https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/1f8310d7-8a8b-4e09-ac4c-7e937ff81663)
+
+- - -
+
+# _Installation and Settings UI_
+
+Before we continue, I'm gonna introduce you to the ui of Polymating. The installation of Polymating will be pretty straight forward, after you download Polymating you can go to Edit > Preferences > Install > select the Polymating zip. file you have downloaded > Press the install add-on button > and turn on the check button, now that you've installed Polymating 0.5x you will be shown the preferences ui like this :
+
+![UI_3](https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/c2952aad-2def-4871-a4a2-cb4d786af984)
+
+- - -
+
+# _The Main UI_
+
+Next up is the main ui of polymating that you will be seeing on the 3D viewport region, make sure to press N on your keyboard to open up the region ui, after that select the Polymating tab on the side to show this ui:
 
 ![ui1](https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/be62331a-9e02-42c7-b2ce-a9f08d2e6040)
 
@@ -29,40 +45,35 @@ Prety simple right, now that you know the ui. Let's take a closer look on a simp
 
 - - -
 
-# _Reference mesh and Target mesh_
+# _Retopology object_
 
-First off let's use Suzzane as a reference mesh and a random cube with subdivision as your target mesh, and create a new material to make it easier to see.
+After you get comfortable with the ui now let's sets up a basic scene to use Polymating with [Plushie Shark made by QuazrSCI](https://sketchfab.com/3d-models/plushie-shark-875414d5e45c42f9a5323ba8a8beed19) as our reference, and then let's creates a simple shape for the Retopology object like this: 
 
-![SuzaneOnTop](https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/6b78647a-0e04-4dc8-a8e0-4031d8ae9b0c)
+https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/82392c33-27db-4d56-a63d-f32b80c722aa
 
-- - -
-
-# _Overlay Material (not necessary)_
-
-In 0.51.0 Polymating have overlay functionality to help the user fasten the material creation, but please keep in mind that applying overlay will overwrites existing materials !!!, to use this features go to Edit > Preferences > Addon > Polymating . And then turn on the Experimental Feature toggle button to show the other settings.
-
-![UI_3](https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/c2952aad-2def-4871-a4a2-cb4d786af984)
 
 - - -
 
 # _The Wrapping_
 Ok Now the next part is kinda scary but, don't be afraid. Because if you have already experience retopologizing with Shrinkwrap Modifier before, then it would look similar, the below video is how the wrapping started when you are in the state of Polymating and this is where the magic happens.
 
-Please keep an important note that the object that you selected will be your target mesh, Polymating will automatically stopped if the target is deselected / deleted / the reference object is remove from the picker manually when Polymating is running
+https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/7d721a2a-71e3-4c5c-94cc-cf135252ada2
 
-https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/e1251adb-daeb-4499-8da9-abc4054f4f40
+- - -
 
 # The _Retopology_
-Now that you have everything set, you can go to sculpt mode or edit mode whichever you prefer and then do the Retopology like this, also please pardon my retopology skill as this is just a quick show for you to understand. My actual Retopology skill is on another level hence the making of this addon xD, for this example I extensively use the sculpt grab and smooth tool :
+Now that you have everything set, you can go to sculpt mode or edit mode whichever you prefer and then do the Retopology, like this:
 
-https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/adb748e6-71ff-4e3e-9d3d-32122b9272e4
+https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/964ce3e3-5c9b-410d-8db2-848647946b76
 
-Now this is not the only way to use Polymating, one of the other way to use it is by using it in edit mode with the "Proportional Editing" turned on. Like this :
+Now this is not the only way to use Polymating, one of the other way to use it is by using it in edit mode with the "Proportional Editing" turned on, and I usually do this when there is a specific details that I need to tackle. Like this :
 
-https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/873f3902-26b1-478a-b503-5643bc663667
+https://github.com/MozzarellaARC/PolymatingUserGuide/assets/62471068/c10ebe0f-d7d6-4ec5-866d-5c114a5dfd0c
 
 But remember it was suppose to work with most of the Blender proprietary / primitive tool, so you could experiment with the other tool not mentioned on the guide. This guide just show which tool is mostly used by me.
 _Have fun with the addon :D_
+
+Goodbye [Sharky](https://sketchfab.com/3d-models/plushie-shark-875414d5e45c42f9a5323ba8a8beed19) !!!
 
 - - -
 This addon is being used extensively for my other project The Rhine, which is a free model
